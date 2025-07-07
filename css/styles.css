@@ -1,0 +1,22 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+.link {
+    color: #000066;
+    text-decoration: underline;
+}
+
+.intro {
+    font-size: 1.2rem;
+    color: #444444;
+}
+
+.purpose {
+    font-style: italic;
+    color: #333333;
+    margin-bottom: 1rem;
+}
